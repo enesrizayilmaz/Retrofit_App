@@ -16,9 +16,9 @@ I'm editing JSON data properly with https://codebeautify.org/jsonviewer.
 </p>
 <br>
 <br>
-And i use java programming language, android studio technologies and retrofit library.
+And i am using Java programming language, Android Studio technologies and Retrofit library.
 <br>
 <br>
 <p align="center">
-<img align="center" alt="Json Viewer" width="200px" height="400px" src="https://iili.io/mEhvR9.png">
+<img align="center" alt="App Screen" width="200px" height="400px" src="https://iili.io/mEhvR9.png">
 </p>
