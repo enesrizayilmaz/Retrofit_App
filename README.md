@@ -1,6 +1,6 @@
 # Parsing JSON Data From Web Using Retrofit Library
 
-I am pulling data of today's date as JSON using worltimeapi.org.
+I am pulling today's date from JSON data using worltimeapi.org.
 <br>
 <br>
 <p align="center">
